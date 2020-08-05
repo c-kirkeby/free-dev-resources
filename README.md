@@ -28,6 +28,7 @@ It is also not an exhaustive list of free software.
 |Humaaans|Coloured SVG illustrations for marketing sites of people which can be customised.|https://www.humaaans.com/|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)|Yes. Read the license for attribution instructions|No|
 |OpenPeeps|Black and white SVG illustrations of people which can be customised.|https://www.openpeeps.com/|[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)|No|Yes. Email is required to be sent the source files. Optional donation.|
 |Illustrations.co|Simple marketing SVG illustrations.|https://illlustrations.co/|[MIT](https://illlustrations.co/license/)|Yes. Read the license for attribution instructions|No|
+|Pixeltrue|Free animated SVG illustrations with optional paid illustrations.|https://www.pixeltrue.com/free-illustrations|[MIT with limitations](https://www.pixeltrue.com/license)|No|No, however you can sign up for an additional 3 free resources|
 
 ### Videos
 
@@ -40,6 +41,7 @@ It is also not an exhaustive list of free software.
 |Name|Description|Link|License|Attribution Required?|Sign-up required?|
 |:--:|:---------:|:----:|:-----:|:-------------------:|:---------------:|
 |Feather Icons|Customisable SVG icons|<https://feathericons.com/>|[MIT](https://github.com/feathericons/feather/blob/master/LICENSE)|Yes. Read the license for attribution instructions|No|
+|System UIcons|Simple thin-lined SVG icons|https://systemuicons.com/|[The Unlicense](https://github.com/CoreyGinnivan/system-uicons/blob/master/LICENSE)|No|No|
 
 ### Fonts
 
